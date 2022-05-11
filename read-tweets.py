@@ -30,7 +30,7 @@ class KafkaTweetsReader:
                 self.files[file_name] = open("/opt/app/tweets/" + file_name, "w+", newline='')
                 self.csv_files[file_name] = csv.writer(self.files[file_name], delimiter=",", quoting=csv.QUOTE_MINIMAL)
                 self.csv_files[file_name].writerow(self.header)
-                self.csv_files[file_name].writerow([author_id, created_at, text])
+            self.csv_files[file_name].writerow([author_id, created_at, text])
 
     def __del__(self):
         for key in self.files.keys():
