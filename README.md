@@ -4,7 +4,8 @@ Kafka 3
 ## Team: [Liia_Dulher](https://github.com/LiiaDulher)
 
 ### Prerequiments
-Please put file <b>twcs.csv</b> in this directory.
+Please put file <b>twcs.csv</b> in this directory.<br>
+Create sub-directory <b>tweets</b> in this directory. It must be <b>EMPTY</b>.
 
 ### Usage
 ````
