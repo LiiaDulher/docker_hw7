@@ -22,4 +22,4 @@ $ ./shutdown-cluster.sh
 ````
 
 ### Results
-
+![docker ps](./results/docker_ps.png)
