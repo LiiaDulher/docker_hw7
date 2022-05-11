@@ -26,3 +26,4 @@ $ ./shutdown-cluster.sh
 ![docker ps](./results/docker_ps.png)
 ![files list](./results/files.png)
 ![file 1](./results/file1.png)
+![file 2](./results/file2.png)
