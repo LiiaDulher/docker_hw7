@@ -23,3 +23,4 @@ $ ./shutdown-cluster.sh
 
 ### Results
 ![docker ps](./results/docker_ps.png)
+![files list](./results/fies.png)
